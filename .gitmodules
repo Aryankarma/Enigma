@@ -4,3 +4,6 @@
 [submodule "EnigmaBackEnd"]
 	path = EnigmaBackEnd
 	url = https://github.com/aryankarma/EnigmaBackEnd
+[submodule "EnigmaFrontEndMain"]
+	path = EnigmaFrontEndMain
+	url = https://github.com/Aryankarma/EnigmaFrontEndMain
