@@ -1,0 +1,6 @@
+[submodule "EnigmaFrontEnd"]
+	path = EnigmaFrontEnd
+	url = https://github.com/aryankarma/EnigmaFrontEnd
+[submodule "EnigmaBackEnd"]
+	path = EnigmaBackEnd
+	url = https://github.com/aryankarma/EnigmaBackEnd
